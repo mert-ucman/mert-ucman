@@ -27,53 +27,33 @@
 
 ## 🛠️ Languages and Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,vite,firebase,git,github,vscode,figma&perline=12" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,vite,firebase,git,github,vscode,figma&perline=12" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mert-ucman&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=mert-ucman&theme=tokyonight&border_radius=10" />
-
-</div>
-
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert-ucman&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mert-ucman&theme=tokyonight&border_radius=10" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/mert-ucman">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://x.com/merttucmann">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/merttucmann">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/mert-ucman">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/merttucmann">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/merttucmann">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
