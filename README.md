@@ -16,7 +16,7 @@
 - ⚛️ Learning React & modern web technologies
 - 🎨 Building clean UI with Tailwind CSS
 - 🔥 Using Firebase in real projects
-- 🌍 GDG Hatay Community Member
+- 🌍 GDG Hatay Community Organizer
 - 🤖 Interested in AI tools & web experiences
 
 ---
