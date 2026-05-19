@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,vite,firebase,git,github,vscode,figma&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,vite,firebase,git,github,vscode,figma&perline=12" />
 
 </div>
 
@@ -39,9 +39,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mert-ucman&show_icons=true&theme=tokyonight&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mert-ucman&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mert-ucman&theme=tokyonight&border_radius=10" />
+<img height="170" src="https://streak-stats.demolab.com?user=mert-ucman&theme=tokyonight&border_radius=10" />
 
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert-ucman&layout=compact&theme=tokyonight&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert-ucman&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" />
 
 </div>
 
@@ -66,7 +66,7 @@
 </a>
 
 <a href="https://x.com/merttucmann">
-  <img src="https://skillicons.dev/icons?i=twitter" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/merttucmann">
